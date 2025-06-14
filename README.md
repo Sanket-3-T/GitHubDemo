@@ -1,3 +1,3 @@
 # GitHubDemo
-Repostory for understanding the git hub and performing expermients
+Repostory for understanding the git hub and performing expermients <br>
 Author - Sanket Kharche 
